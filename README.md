@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original.svg" align="left" height="30" width="30" title="CSS3">
   <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg" align="left" height="30" width="30" title="JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" align="left" height="30" width="30" title="Node JS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original-wordmark.svg" align="left" height="30" width="30" title="Mongo DB">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" align="left" height="30" width="30" title="Mongo DB">
   <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/arduino/arduino-original.svg" align="left" height="30" width="30" title="Arduino"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg" align="left" height="30" width="30" title="VS code">    
 <br>
