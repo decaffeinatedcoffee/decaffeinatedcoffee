@@ -1,8 +1,9 @@
 
 ### Hi, I'm decaffeinatedcoffee, a beginner from São Paulo, Brazil.
 
--💻 *Im learning Web Development.*  
--💻 *I like to make random cool projects with arduinos and ESP8266*
+-💻 *Im a Web Developer.*  
+-💻 *I usually make random cool projects with arduinos and ESP8266*   
+-💻 *I love making discord Bots.*
 ###
   **👨‍💻 Languages and tools:**  
   </br>
@@ -13,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" align="left" height="30" width="30" title="Mongo DB">
   <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/arduino/arduino-original.svg" align="left" height="30" width="30" title="Arduino"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg" align="left" height="30" width="30" title="VS code">    
+<br>
 <br>
 ---
   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=decaffeinatedcoffee&count_private=true&theme=tokyonight&showicons=true)]()   
