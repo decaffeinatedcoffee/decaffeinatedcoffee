@@ -1,7 +1,7 @@
 
 ### Hi, I'm decaffeinatedcoffee, a beginner from São Paulo, Brazil.
 
--💻 *Im a Web Developer.*  
+-💻 *I like Web Development.*  
 -💻 *I usually make random cool projects with arduinos and ESP8266*   
 -💻 *I love making discord Bots.*
 ###
