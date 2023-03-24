@@ -1,5 +1,5 @@
 
-### Hi, I'm decaffeinatedcoffee, a beginner from São Paulo, Brazil.
+### Hi, I'm decaffeinatedcoffee, a developer from São Paulo, Brazil.
 
 -💻 *I like Web Development.*  
 -💻 *I usually make random cool projects with arduinos and ESP8266*   
