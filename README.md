@@ -1,9 +1,9 @@
 
 ### Hi, I'm decaffeinatedcoffee, a developer from São Paulo, Brazil.
 
--💻 *I like Web Development.*  
--💻 *I usually make random cool projects with arduinos and ESP8266*   
--💻 *I love making discord Bots.*
+-💻 *Front & Back-End*  
+-💻 *IoT devices*   
+-💻 *I love creating bots for discord*
 ###
   **👨‍💻 Languages and tools:**  
   </br>
