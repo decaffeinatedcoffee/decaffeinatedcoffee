@@ -16,7 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg" align="left" height="30" width="30" title="VS code">    
 <br>
 <br>
-<a href="https://www.buymeacoffee.com/decaffeincoffee" style="font-size:20px;">Support me</a>
 <br>
 <br>
 ---
